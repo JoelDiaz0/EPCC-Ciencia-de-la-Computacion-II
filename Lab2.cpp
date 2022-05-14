@@ -1,5 +1,3 @@
-
-
 //LABORATORIO 2 BUCLES
 
 //1.-Sumar todos los enteros pares desde 2 hasta 100.
