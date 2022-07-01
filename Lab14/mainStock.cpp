@@ -1,10 +1,10 @@
 /*Implemente un programa utilizando puntero a punteros que gestione los datos de
-stock de una tienda de ropa, la información a recoger será: código, nombre y
+stock de una tienda de ropa, la informacion a recoger ser: codigo, nombre y
 precio del producto, asimismo la cantidad en stock. La tienda dispone de 10
 productos distintos. El programa debe ser capaz de:
 1. Dar de alta un producto nuevo.
 2. Dar de baja a un producto. (No hay stock).
-3. Buscar un producto por su nombre o código.
+3. Buscar un producto por su nombre o codigo.
 4. Modificar el nombre, precio o cantidad de un producto dado.*/
 
 #include <iostream>
