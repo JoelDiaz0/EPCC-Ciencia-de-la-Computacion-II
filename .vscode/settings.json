@@ -1,6 +1,14 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp"
     }
 }
